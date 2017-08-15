@@ -9,8 +9,9 @@ An iOS app which lists all the Pokemons and their details.
 ![screenshot1](https://user-images.githubusercontent.com/20210939/28180398-a3d9000a-6822-11e7-8959-becbbadcb01b.png)
 
 # After downloading?
-1. Go to Project directory and run "pod install". Make sure that you have CocoaPods installed on your system.
-2. Build and Run the project.
+1. Go to Project directory in Terminal and run "pod install". Make sure that you have CocoaPods installed on your system.
+2. Open “.xcworkspace” in Xcode.
+3. Build and Run the project.
 
 # Requirements
 1. Swift 3.0
